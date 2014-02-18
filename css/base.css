@@ -400,6 +400,9 @@ text-align: right
 .seguridad{background: url(../images/segf.jpg); height: 720px;width: 100%; padding-left: 40px;float: right;background-repeat: no-repeat; background-size: 101%}
 .cintas{background: url(../images/cinf.jpg); height: 475px;width: 100%; padding-left: 40px;float: right;background-repeat: no-repeat; background-size: 100%}
 
+.rollos{background: url(../images/mpf.jpg); height: 475px;width: 100%; padding-left: 40px;float: right;background-repeat: no-repeat; background-size: 100%}
+
+.pga{background: url(../images/pgaf.jpg); height: 475px;width: 100%; padding-left: 40px;float: right;background-repeat: no-repeat; background-size: 100%}
 
 
 .indimget{margin:60px 0px 0 150px; position: absolute}
