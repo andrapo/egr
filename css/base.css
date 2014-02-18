@@ -468,6 +468,7 @@ text-align: center
  .esp2 h1{color: black; font-size: 16px;line-height: 110%;text-align: left; margin-top: 10px; margin-bottom: 7px}
 .rib p, .esp2 p{font-size: 11px;line-height: 110%; color: black; text-align: left; margin-bottom: 10px}
 .space{padding-left: 10px}
+.space img{margin: 0 auto; display: block}
 .rib ul li{ font-size: 11px; color: black; list-style: inside disc}
 .rib li{margin-bottom: 5px; line-height: 120%}
 .b{float: right; margin-top: 10px}
